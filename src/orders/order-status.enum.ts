@@ -1,0 +1,8 @@
+export enum OrderStatus {
+  RECEIVED = 'RECEIVED',
+  WASHING = 'WASHING',
+  IRONING = 'IRONING',
+  READY = 'READY',
+  DELIVERED = 'DELIVERED',
+  CANCELLED = 'CANCELLED',
+}

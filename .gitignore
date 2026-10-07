@@ -1,0 +1,18 @@
+# Compiled output
+/dist
+
+# Dependencies
+/node_modules
+
+# Local configuration
+.env
+
+# Logs and coverage
+*.log
+npm-debug.log
+yarn-error.log
+/coverage
+
+# System files
+.DS_Store
+Thumbs.db
